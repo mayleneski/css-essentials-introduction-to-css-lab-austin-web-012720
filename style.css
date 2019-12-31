@@ -7,6 +7,9 @@ body {
 div {
   background:white;
   font-family:"Helvetica Neue";
+  margin:auto;
+  width:700px;
+  padding:30px;
 }
 
 /* ID selector to select the element with id 'main-header' */
